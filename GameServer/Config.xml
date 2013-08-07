@@ -1,0 +1,6 @@
+DB_PORT=3306
+DB_BASE=safre
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+TCP_PORT=5776
